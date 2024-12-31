@@ -7,7 +7,7 @@
 - **Scrape Onhold**: Ambil domain dari halaman [https://defacer.net/onhold/](https://defacer.net/onhold/) 🚧
 - **Scrape Special**: Ambil domain dari halaman [https://defacer.net/special/](https://defacer.net/special/) ✨
 
-## Prasyarat 🛠️
+## syarat 🛠️
 - Pastikan kamu udah install **Python 3** dan **pip** di sistem kamu.
 
 ## Cara Install 🔧
